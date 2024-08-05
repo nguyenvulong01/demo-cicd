@@ -1,0 +1,301 @@
+29-07-2024 19:16:13.863 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 21664 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 19:16:13.866 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 19:16:16.608 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 3.335 seconds (process running for 3.758)
+29-07-2024 19:16:29.425 [http-nio-8080-exec-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.getAnimals - CALL ...
+29-07-2024 19:28:37.301 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 10904 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 19:28:37.306 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 19:28:40.023 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 3.258 seconds (process running for 3.658)
+29-07-2024 19:28:49.776 [http-nio-8080-exec-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.getAnimals - CALL ...
+29-07-2024 19:35:06.590 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 2040 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 19:35:06.594 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 19:35:09.597 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 3.541 seconds (process running for 3.978)
+29-07-2024 19:44:22.362 [http-nio-8080-exec-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.getAnimals - CALL ...
+29-07-2024 19:44:57.512 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 2772 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 19:44:57.515 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 19:45:00.186 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 3.241 seconds (process running for 3.624)
+29-07-2024 19:45:23.063 [http-nio-8080-exec-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.getAnimals - CALL ...
+29-07-2024 19:46:42.797 [http-nio-8080-exec-4] INFO  c.e.a.s.impl.AnimalsServiceImpl.getAnimals - CALL ...
+29-07-2024 20:06:20.413 [http-nio-8080-exec-7] INFO  c.e.a.s.impl.AnimalsServiceImpl.getAnimals - CALL ...
+29-07-2024 20:08:49.969 [http-nio-8080-exec-10] INFO  c.e.a.s.impl.AnimalsServiceImpl.getAnimals - CALL ...
+29-07-2024 20:10:18.874 [http-nio-8080-exec-2] INFO  c.e.a.s.impl.AnimalsServiceImpl.getAnimals - CALL ...
+29-07-2024 20:10:19.741 [http-nio-8080-exec-4] INFO  c.e.a.s.impl.AnimalsServiceImpl.getAnimals - CALL ...
+29-07-2024 20:10:20.147 [http-nio-8080-exec-5] INFO  c.e.a.s.impl.AnimalsServiceImpl.getAnimals - CALL ...
+29-07-2024 20:13:23.948 [http-nio-8080-exec-9] INFO  c.e.a.s.impl.AnimalsServiceImpl.getAnimals - CALL ...
+29-07-2024 21:55:19.612 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 17180 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 21:55:19.616 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 21:55:21.916 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 2.863 seconds (process running for 3.27)
+29-07-2024 21:55:39.175 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 17980 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 21:55:39.178 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 21:55:41.325 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 2.682 seconds (process running for 3.053)
+29-07-2024 21:56:06.294 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 19616 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 21:56:06.298 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 21:56:07.769 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 1.946 seconds (process running for 2.269)
+29-07-2024 21:56:21.534 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 24272 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 21:56:21.539 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 21:56:22.826 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 1.745 seconds (process running for 2.076)
+29-07-2024 21:58:14.671 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 12468 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 21:58:14.675 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 21:58:16.110 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 1.893 seconds (process running for 2.226)
+29-07-2024 21:59:20.560 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 11052 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 21:59:20.564 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 21:59:21.926 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 1.82 seconds (process running for 2.165)
+29-07-2024 21:59:47.355 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 10916 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 21:59:47.358 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 21:59:48.700 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 1.815 seconds (process running for 2.132)
+29-07-2024 22:00:04.703 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 20652 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 22:00:04.707 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 22:00:06.049 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 1.83 seconds (process running for 2.158)
+29-07-2024 22:01:39.713 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 6600 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 22:01:39.717 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 22:01:41.350 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 2.117 seconds (process running for 2.437)
+29-07-2024 22:02:24.749 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 17884 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 22:02:24.754 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 22:02:26.104 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 1.822 seconds (process running for 2.148)
+29-07-2024 22:03:24.381 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 13124 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 22:03:24.384 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 22:03:25.707 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 1.808 seconds (process running for 2.134)
+29-07-2024 22:07:37.400 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 23108 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 22:07:37.405 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 22:07:41.419 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 4.635 seconds (process running for 5.131)
+29-07-2024 22:08:15.250 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 13904 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 22:08:15.254 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 22:08:33.917 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 24512 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 22:08:33.921 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 22:08:36.435 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 2.906 seconds (process running for 3.214)
+29-07-2024 22:11:47.934 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 12024 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 22:11:47.939 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 22:11:50.969 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 3.713 seconds (process running for 4.17)
+29-07-2024 22:17:24.964 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 15572 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 22:17:24.968 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 22:17:27.716 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 3.198 seconds (process running for 3.537)
+29-07-2024 22:25:36.891 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 8884 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 22:25:36.895 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 22:25:40.143 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 3.723 seconds (process running for 4.099)
+29-07-2024 22:26:03.149 [http-nio-8080-exec-3] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - =============================
+29-07-2024 22:38:04.149 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 23652 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 22:38:04.153 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 22:38:07.991 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 4.305 seconds (process running for 4.661)
+29-07-2024 22:38:13.310 [http-nio-8080-exec-2] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - =============================
+29-07-2024 22:38:28.935 [http-nio-8080-exec-3] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - =============================
+29-07-2024 22:39:46.166 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 12048 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 22:39:46.170 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 22:39:49.186 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 3.502 seconds (process running for 3.847)
+29-07-2024 22:39:53.256 [http-nio-8080-exec-2] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - =============================
+29-07-2024 22:43:51.771 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 20200 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 22:43:51.775 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 22:43:55.889 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 4.588 seconds (process running for 4.93)
+29-07-2024 22:43:59.005 [http-nio-8080-exec-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - =============================
+29-07-2024 22:44:08.785 [http-nio-8080-exec-3] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - =============================
+29-07-2024 22:50:56.600 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 15076 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 22:50:56.604 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 22:50:59.814 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 3.667 seconds (process running for 4.002)
+29-07-2024 22:51:03.996 [http-nio-8080-exec-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - START === 2024-07-29T22:51:03.996596800
+29-07-2024 22:51:12.799 [http-nio-8080-exec-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - END === 2024-07-29T22:51:12.799646
+29-07-2024 22:51:27.081 [http-nio-8080-exec-3] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - START === 2024-07-29T22:51:27.081791300
+29-07-2024 22:51:27.104 [http-nio-8080-exec-3] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - END === 2024-07-29T22:51:27.104775100
+29-07-2024 22:52:31.741 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 2376 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 22:52:31.745 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 22:52:34.854 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 3.588 seconds (process running for 3.931)
+29-07-2024 22:52:37.820 [http-nio-8080-exec-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - START === 2024-07-29T22:52:37.820449200
+29-07-2024 22:52:42.562 [http-nio-8080-exec-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - END === 2024-07-29T22:52:42.562833600
+29-07-2024 22:52:46.053 [http-nio-8080-exec-3] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - START === 2024-07-29T22:52:46.053145600
+29-07-2024 22:52:48.864 [http-nio-8080-exec-3] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - END === 2024-07-29T22:52:48.864679500
+29-07-2024 22:52:55.481 [http-nio-8080-exec-4] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - START === 2024-07-29T22:52:55.481989500
+29-07-2024 22:52:59.180 [http-nio-8080-exec-4] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - END === 2024-07-29T22:52:59.180857200
+29-07-2024 22:53:28.085 [http-nio-8080-exec-5] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - START === 2024-07-29T22:53:28.085822600
+29-07-2024 22:53:29.794 [http-nio-8080-exec-5] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - END === 2024-07-29T22:53:29.794299600
+29-07-2024 22:53:35.686 [http-nio-8080-exec-6] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - START === 2024-07-29T22:53:35.686210900
+29-07-2024 22:54:02.731 [http-nio-8080-exec-6] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - END === 2024-07-29T22:54:02.731456800
+29-07-2024 22:54:06.732 [http-nio-8080-exec-7] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - START === 2024-07-29T22:54:06.732465400
+29-07-2024 22:54:44.221 [http-nio-8080-exec-7] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - END === 2024-07-29T22:54:44.221108400
+29-07-2024 22:55:00.733 [http-nio-8080-exec-8] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - START === 2024-07-29T22:55:00.732791200
+29-07-2024 22:55:15.107 [http-nio-8080-exec-8] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - END === 2024-07-29T22:55:15.107252300
+29-07-2024 22:55:25.752 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 10476 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 22:55:25.756 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 22:55:28.831 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 3.538 seconds (process running for 3.878)
+29-07-2024 22:55:34.676 [http-nio-8080-exec-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - START === 2024-07-29T22:55:34.676654500
+29-07-2024 22:56:04.219 [http-nio-8080-exec-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - END === 2024-07-29T22:56:04.219409700
+29-07-2024 22:56:30.580 [http-nio-8080-exec-3] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - START === 2024-07-29T22:56:30.580710100
+29-07-2024 22:56:38.275 [http-nio-8080-exec-3] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - END === 2024-07-29T22:56:38.275142500
+29-07-2024 22:57:07.304 [http-nio-8080-exec-4] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - START === 2024-07-29T22:57:07.304319300
+29-07-2024 22:57:29.339 [http-nio-8080-exec-4] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - END === 2024-07-29T22:57:29.339647200
+29-07-2024 22:59:39.219 [http-nio-8080-exec-7] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - START === 2024-07-29T22:59:39.219072600
+29-07-2024 22:59:39.234 [http-nio-8080-exec-7] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - END === 2024-07-29T22:59:39.234065800
+29-07-2024 22:59:46.319 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 20588 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 22:59:46.323 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 22:59:49.414 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 3.539 seconds (process running for 3.883)
+29-07-2024 22:59:51.132 [http-nio-8080-exec-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - START === 2024-07-29T22:59:51.132373200
+29-07-2024 22:59:55.066 [http-nio-8080-exec-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - END === 2024-07-29T22:59:55.066820800
+29-07-2024 23:00:04.682 [http-nio-8080-exec-3] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - START === 2024-07-29T23:00:04.682245
+29-07-2024 23:00:31.384 [http-nio-8080-exec-3] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - END === 2024-07-29T23:00:31.384349500
+29-07-2024 23:00:38.790 [http-nio-8080-exec-4] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - START === 2024-07-29T23:00:38.790069800
+29-07-2024 23:00:42.154 [http-nio-8080-exec-4] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - END === 2024-07-29T23:00:42.154984700
+29-07-2024 23:00:43.996 [http-nio-8080-exec-5] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - START === 2024-07-29T23:00:43.996408400
+29-07-2024 23:01:16.472 [http-nio-8080-exec-5] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - END === 2024-07-29T23:01:16.472149100
+29-07-2024 23:03:01.932 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 5360 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 23:03:01.937 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 23:03:05.541 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 4.31 seconds (process running for 4.953)
+29-07-2024 23:03:26.252 [http-nio-8080-exec-2] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - START === 2024-07-29T23:03:26.252872300
+29-07-2024 23:03:28.202 [http-nio-8080-exec-2] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - END === 2024-07-29T23:03:28.202541300
+29-07-2024 23:03:34.841 [http-nio-8080-exec-3] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - START === 2024-07-29T23:03:34.841645800
+29-07-2024 23:04:00.440 [http-nio-8080-exec-3] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - END === 2024-07-29T23:04:00.440769500
+29-07-2024 23:04:18.938 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 6792 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 23:04:18.942 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 23:04:22.022 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 3.532 seconds (process running for 3.876)
+29-07-2024 23:04:25.148 [http-nio-8080-exec-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - START === 2024-07-29T23:04:25.148589100
+29-07-2024 23:04:26.530 [http-nio-8080-exec-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - END === 2024-07-29T23:04:26.530489
+29-07-2024 23:04:35.189 [http-nio-8080-exec-3] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - START === 2024-07-29T23:04:35.189601100
+29-07-2024 23:04:54.825 [http-nio-8080-exec-3] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - END === 2024-07-29T23:04:54.825435700
+29-07-2024 23:04:57.499 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 2100 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 23:04:57.504 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 23:05:00.692 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 3.638 seconds (process running for 3.985)
+29-07-2024 23:05:02.759 [http-nio-8080-exec-2] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - START === 2024-07-29T23:05:02.759130800
+29-07-2024 23:05:03.766 [http-nio-8080-exec-2] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - END === 2024-07-29T23:05:03.766360600
+29-07-2024 23:05:10.210 [http-nio-8080-exec-3] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - START === 2024-07-29T23:05:10.210362700
+29-07-2024 23:05:28.713 [http-nio-8080-exec-3] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - END === 2024-07-29T23:05:28.713631600
+29-07-2024 23:05:32.686 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 12280 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 23:05:32.691 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 23:05:35.697 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 3.468 seconds (process running for 3.814)
+29-07-2024 23:05:37.754 [http-nio-8080-exec-2] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - START === 2024-07-29T23:05:37.754592100
+29-07-2024 23:05:43.069 [http-nio-8080-exec-2] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - END === 2024-07-29T23:05:43.069297
+29-07-2024 23:08:25.079 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 5868 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 23:08:25.084 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 23:08:28.197 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 3.585 seconds (process running for 3.996)
+29-07-2024 23:08:34.036 [http-nio-8080-exec-2] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - START === 2024-07-29T23:08:34.036317400
+29-07-2024 23:08:39.700 [http-nio-8080-exec-2] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - END === 2024-07-29T23:08:39.700949900
+29-07-2024 23:11:16.241 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 5416 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 23:11:16.245 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 23:11:19.406 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 3.637 seconds (process running for 3.988)
+29-07-2024 23:11:33.762 [http-nio-8080-exec-2] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - START === 2024-07-29T23:11:33.762227200
+29-07-2024 23:11:40.743 [http-nio-8080-exec-2] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - END === -6
+29-07-2024 23:12:54.862 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 1908 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 23:12:54.867 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 23:12:58.282 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 3.892 seconds (process running for 4.243)
+29-07-2024 23:13:00.584 [http-nio-8080-exec-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - START === 310990677273900
+29-07-2024 23:13:05.830 [http-nio-8080-exec-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - END === 5246481300
+29-07-2024 23:13:24.821 [http-nio-8080-exec-3] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - START === 311014915342100
+29-07-2024 23:13:27.516 [http-nio-8080-exec-3] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - END === 2694626800
+29-07-2024 23:13:42.646 [http-nio-8080-exec-4] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - START === 311032739877800
+29-07-2024 23:13:44.601 [http-nio-8080-exec-4] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - END === 1955610300
+29-07-2024 23:14:26.381 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 14396 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 23:14:26.385 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 23:14:29.591 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 3.685 seconds (process running for 4.042)
+29-07-2024 23:14:32.232 [http-nio-8080-exec-2] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - START === 311082325845700
+29-07-2024 23:14:36.211 [http-nio-8080-exec-2] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - END === 3978290600
+29-07-2024 23:14:44.690 [http-nio-8080-exec-3] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - START === 311094784078600
+29-07-2024 23:14:46.646 [http-nio-8080-exec-3] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - END === 1955923000
+29-07-2024 23:14:56.276 [http-nio-8080-exec-4] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - START === 311106369688700
+29-07-2024 23:14:58.965 [http-nio-8080-exec-4] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - END === 2688724800
+29-07-2024 23:15:13.110 [http-nio-8080-exec-5] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - START === 311123203427800
+29-07-2024 23:15:14.568 [http-nio-8080-exec-5] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - END === 1458445300
+29-07-2024 23:21:59.583 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 8532 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 23:21:59.587 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 23:22:02.549 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 3.424 seconds (process running for 3.772)
+29-07-2024 23:22:07.567 [http-nio-8080-exec-2] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - START === 311537660372900
+29-07-2024 23:22:20.298 [http-nio-8080-exec-2] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - END === 12731317700
+29-07-2024 23:24:10.602 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 14560 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 23:24:10.606 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 23:24:13.795 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 3.684 seconds (process running for 4.161)
+29-07-2024 23:24:28.240 [http-nio-8080-exec-2] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - START === 2024-07-29T23:24:28.240719100
+29-07-2024 23:24:41.849 [http-nio-8080-exec-2] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - END === -14
+29-07-2024 23:31:14.306 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 4736 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 23:31:14.310 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 23:31:17.503 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 3.637 seconds (process running for 3.98)
+29-07-2024 23:31:20.849 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 8736 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 23:31:20.855 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 23:31:24.830 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 4.691 seconds (process running for 5.348)
+29-07-2024 23:31:30.220 [http-nio-8080-exec-2] INFO  c.e.a.s.impl.AnimalsServiceImpl.importFile - START === 2024-07-29T23:31:30.220860600
+29-07-2024 23:31:30.225 [http-nio-8080-exec-2] INFO  c.e.a.s.impl.AnimalsServiceImpl.importFile - END === 0
+29-07-2024 23:31:39.456 [http-nio-8080-exec-3] INFO  c.e.a.s.impl.AnimalsServiceImpl.importFile - START === 2024-07-29T23:31:39.456136200
+29-07-2024 23:31:45.532 [http-nio-8080-exec-3] INFO  c.e.a.s.impl.AnimalsServiceImpl.importFile - END === 6
+29-07-2024 23:32:09.623 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 10176 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 23:32:09.626 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 23:32:13.249 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 4.144 seconds (process running for 4.55)
+29-07-2024 23:32:15.592 [http-nio-8080-exec-2] INFO  c.e.a.s.impl.AnimalsServiceImpl.importFile - START === 2024-07-29T23:32:15.592800700
+29-07-2024 23:33:56.379 [http-nio-8080-exec-2] INFO  c.e.a.s.impl.AnimalsServiceImpl.importFile - END === 100
+29-07-2024 23:33:59.850 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 11756 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 23:33:59.855 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 23:34:03.684 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 4.326 seconds (process running for 4.669)
+29-07-2024 23:34:04.307 [http-nio-8080-exec-2] INFO  c.e.a.s.impl.AnimalsServiceImpl.importFile - START === 2024-07-29T23:34:04.307214100
+29-07-2024 23:34:52.162 [http-nio-8080-exec-2] INFO  c.e.a.s.impl.AnimalsServiceImpl.importFile - END === 47
+29-07-2024 23:36:03.607 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 2504 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 23:36:03.610 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 23:36:07.476 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 4.326 seconds (process running for 4.729)
+29-07-2024 23:36:21.372 [http-nio-8080-exec-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.importFile - START === 2024-07-29T23:36:21.372049900
+29-07-2024 23:36:21.377 [http-nio-8080-exec-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.importFile - END === 0
+29-07-2024 23:36:31.823 [http-nio-8080-exec-3] INFO  c.e.a.s.impl.AnimalsServiceImpl.importFile - START === 2024-07-29T23:36:31.823419200
+29-07-2024 23:36:31.825 [http-nio-8080-exec-3] INFO  c.e.a.s.impl.AnimalsServiceImpl.importFile - END === 0
+29-07-2024 23:36:41.554 [http-nio-8080-exec-4] INFO  c.e.a.s.impl.AnimalsServiceImpl.importFile - START === 2024-07-29T23:36:41.554869200
+29-07-2024 23:36:42.097 [http-nio-8080-exec-4] INFO  c.e.a.s.impl.AnimalsServiceImpl.importFile - END === 0
+29-07-2024 23:38:10.398 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 21540 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 23:38:10.403 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 23:38:13.625 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 3.711 seconds (process running for 4.081)
+29-07-2024 23:38:16.974 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 16268 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 23:38:16.979 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 23:38:19.999 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 3.459 seconds (process running for 3.794)
+29-07-2024 23:38:23.590 [http-nio-8080-exec-2] INFO  c.e.a.s.impl.AnimalsServiceImpl.importFile - START === 2024-07-29T23:38:23.590407200
+29-07-2024 23:38:23.592 [http-nio-8080-exec-2] INFO  c.e.a.s.impl.AnimalsServiceImpl.importFile - TOTAL === 0
+29-07-2024 23:38:23.592 [pool-2-thread-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - FILE START - Animal1.xlsx
+29-07-2024 23:38:23.592 [pool-2-thread-3] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - FILE START - Animal3.xlsx
+29-07-2024 23:38:23.592 [pool-2-thread-2] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - FILE START - Animal2.xlsx
+29-07-2024 23:38:23.592 [pool-2-thread-4] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - FILE START - Animal4.xlsx
+29-07-2024 23:38:44.572 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 1660 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 23:38:44.575 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 23:38:47.723 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 3.707 seconds (process running for 4.113)
+29-07-2024 23:38:49.989 [http-nio-8080-exec-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.importFile - START === 2024-07-29T23:38:49.989032300
+29-07-2024 23:38:49.991 [http-nio-8080-exec-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.importFile - TOTAL === 0
+29-07-2024 23:38:49.991 [pool-2-thread-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - FILE START - Animal1.xlsx
+29-07-2024 23:38:49.991 [pool-2-thread-2] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - FILE START - Animal2.xlsx
+29-07-2024 23:39:01.489 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 14400 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 23:39:01.493 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 23:39:04.648 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 3.609 seconds (process running for 3.954)
+29-07-2024 23:39:07.144 [http-nio-8080-exec-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.importFile - START === 2024-07-29T23:39:07.144611800
+29-07-2024 23:39:07.145 [http-nio-8080-exec-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.importFile - TOTAL === 0
+29-07-2024 23:39:07.146 [pool-2-thread-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - FILE START - Animal1.xlsx
+29-07-2024 23:39:21.910 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 11128 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 23:39:21.914 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 23:39:24.838 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 3.357 seconds (process running for 3.707)
+29-07-2024 23:39:27.319 [http-nio-8080-exec-2] INFO  c.e.a.s.impl.AnimalsServiceImpl.importFile - START === 2024-07-29T23:39:27.319496800
+29-07-2024 23:39:27.321 [http-nio-8080-exec-2] INFO  c.e.a.s.impl.AnimalsServiceImpl.importFile - TOTAL === 0
+29-07-2024 23:39:27.321 [pool-2-thread-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - FILE START - Animal1.xlsx
+29-07-2024 23:39:41.936 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 2964 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 23:39:41.941 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 23:39:44.914 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 3.423 seconds (process running for 3.778)
+29-07-2024 23:39:47.850 [http-nio-8080-exec-2] INFO  c.e.a.s.impl.AnimalsServiceImpl.importFile - START === 2024-07-29T23:39:47.850979900
+29-07-2024 23:39:50.976 [pool-2-thread-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - FILE START - Animal1.xlsx
+29-07-2024 23:39:51.410 [http-nio-8080-exec-2] INFO  c.e.a.s.impl.AnimalsServiceImpl.importFile - TOTAL === 3
+29-07-2024 23:40:04.060 [pool-2-thread-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - FILE END - Animal1.xlsx
+29-07-2024 23:40:08.403 [pool-2-thread-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - FILE START - Animal2.xlsx
+29-07-2024 23:40:19.370 [pool-2-thread-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - FILE END - Animal2.xlsx
+29-07-2024 23:40:19.371 [pool-2-thread-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - FILE START - Animal3.xlsx
+29-07-2024 23:40:30.138 [pool-2-thread-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - FILE END - Animal3.xlsx
+29-07-2024 23:40:30.139 [pool-2-thread-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - FILE START - Animal4.xlsx
+29-07-2024 23:40:40.791 [pool-2-thread-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - FILE END - Animal4.xlsx
+29-07-2024 23:41:21.771 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 1932 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 23:41:21.774 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 23:41:24.764 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 3.449 seconds (process running for 3.782)
+29-07-2024 23:41:27.437 [pool-2-thread-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - FILE START - Animal1.xlsx - 2024-07-29T23:41:27.437202
+29-07-2024 23:41:39.859 [pool-2-thread-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - FILE END - Animal1.xlsx - 12
+29-07-2024 23:41:39.859 [pool-2-thread-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - FILE START - Animal2.xlsx - 2024-07-29T23:41:39.859925700
+29-07-2024 23:41:55.307 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 6204 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 23:41:55.312 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 23:41:58.310 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 3.452 seconds (process running for 3.795)
+29-07-2024 23:42:06.278 [pool-2-thread-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - FILE START - Animal1.xlsx - 2024-07-29T23:42:06.278998700
+29-07-2024 23:42:06.278 [pool-2-thread-2] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - FILE START - Animal2.xlsx - 2024-07-29T23:42:06.278998700
+29-07-2024 23:42:22.245 [pool-2-thread-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - FILE END - Animal1.xlsx - 15
+29-07-2024 23:42:22.246 [pool-2-thread-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - FILE START - Animal3.xlsx - 2024-07-29T23:42:22.246891700
+29-07-2024 23:42:22.338 [pool-2-thread-2] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - FILE END - Animal2.xlsx - 16
+29-07-2024 23:42:22.338 [pool-2-thread-2] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - FILE START - Animal4.xlsx - 2024-07-29T23:42:22.338824700
+29-07-2024 23:42:35.787 [pool-2-thread-2] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - FILE END - Animal4.xlsx - 13
+29-07-2024 23:42:35.802 [pool-2-thread-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - FILE END - Animal3.xlsx - 13
+29-07-2024 23:43:11.892 [main] INFO  c.example.animals.AnimalsApplication.logStarting - Starting AnimalsApplication using Java 17.0.9 with PID 17100 (D:\learnByMyself\gateway\myself\animals\target\classes started by ADMIN in D:\learnByMyself\gateway\myself\animals)
+29-07-2024 23:43:11.896 [main] INFO  c.example.animals.AnimalsApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-07-2024 23:43:14.809 [main] INFO  c.example.animals.AnimalsApplication.logStarted - Started AnimalsApplication in 3.352 seconds (process running for 3.691)
+29-07-2024 23:43:17.718 [pool-2-thread-3] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - FILE START - Animal3.xlsx - 2024-07-29T23:43:17.718963200
+29-07-2024 23:43:17.718 [pool-2-thread-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - FILE START - Animal1.xlsx - 2024-07-29T23:43:17.718963200
+29-07-2024 23:43:17.718 [pool-2-thread-2] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - FILE START - Animal2.xlsx - 2024-07-29T23:43:17.718963200
+29-07-2024 23:43:17.718 [pool-2-thread-4] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - FILE START - Animal4.xlsx - 2024-07-29T23:43:17.718963200
+29-07-2024 23:43:54.049 [pool-2-thread-4] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - FILE END - Animal4.xlsx - 36
+29-07-2024 23:43:56.372 [pool-2-thread-2] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - FILE END - Animal2.xlsx - 38
+29-07-2024 23:43:56.407 [pool-2-thread-3] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - FILE END - Animal3.xlsx - 38
+29-07-2024 23:43:56.440 [pool-2-thread-1] INFO  c.e.a.s.impl.AnimalsServiceImpl.readExcel - FILE END - Animal1.xlsx - 38

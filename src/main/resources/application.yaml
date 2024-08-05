@@ -1,0 +1,30 @@
+spring:
+  application:
+    name: animals-service
+  datasource:
+    url: jdbc:postgresql://localhost:5432/postgres?currentSchema=public
+    username: postgres
+    password: 123456789
+  jpa:
+    show-sql: false
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+    hibernate:
+      ddl-auto: update
+server:
+  port: 8080
+#eureka:
+#  client:
+#    serviceUrl:
+#      defaultZone: ${EUREKA_URI:http://localhost:8761/eureka}
+#  instance:
+#    preferIpAddress: true
+#resilience4j:
+#  ratelimiter:
+#    instances:
+#      basic:
+#        limit-for-period: 3
+#        limit-refresh-period: 15s
+#        timeout-duration: 2s
+#        register-health-indicator: true
